@@ -1,11 +1,14 @@
 ## Hi there 👋
-- 👋 Hi, I’m Mohamed amine garsi
-- 👀 I’m interested in computer science...
-- 🌱 I’m currently learning DevOps.
-- 🔭 I’m currently a Senior QA engineer.
-- 🌱 i used to work as a biomedical engineer.
-- 💞️ I’m looking to share some work on this platform...
-- 📫 How to reach me mohamed.amine.garsi@gmail.com
+
+I’m Mohamed Amine Garsi, a QA Engineer transitioning into DevOps and Cloud Engineering.
+
+- 🔭 Currently working in QA and Test Engineering (automation & functional testing)
+- 🌱 Learning DevOps (Docker, Kubernetes, CI/CD, Jenkins, monitoring tools)
+- ⚙️ Interested in Cloud, DevOps, and Test Automation engineering
+- 🧪 Experience in QA, debugging, and system validation
+- 🏗️ Previously worked in biomedical engineering
+- 💡 Focused on building real-world DevOps and automation projects
+- 📫 Contact: mohamed.amine.garsi@gmail.com
 
 <!--
 **MohamedAmineGarsi/MohamedAmineGarsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
